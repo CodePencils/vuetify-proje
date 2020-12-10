@@ -1,4 +1,4 @@
-# vuetify-proje
+# VEUJS-VUETIFY İle Youtube Teması
 
 ## PAKETLERİN KURUMLUMU 
 ```
