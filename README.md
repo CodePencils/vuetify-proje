@@ -1,16 +1,16 @@
-# vuetify-proje
+# VEUJS-VUETIFY İle Youtube Teması
 
-## Project setup
+## PAKETLERİN KURUMLUMU 
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### PROJE ÇALIŞTIRILMASI
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### PROJE DERLENMESİ
 ```
 npm run build
 ```
@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+![alt text](https://github.com/CodePencils/vuetify-proje/blob/master/src/assets/image.png?raw=true)
+
