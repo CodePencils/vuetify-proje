@@ -1,16 +1,16 @@
 # vuetify-proje
 
-## PAKET KURUMLUMU 
+## PAKETLERİN KURUMLUMU 
 ```
 npm install
 ```
 
-### PROJEYİ DERLEYİP ÇALIŞTIRILMASI
+### PROJE ÇALIŞTIRILMASI
 ```
 npm run serve
 ```
 
-### PROJEYİ DERLEMEK
+### PROJE DERLENMESİ
 ```
 npm run build
 ```
