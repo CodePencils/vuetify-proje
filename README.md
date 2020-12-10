@@ -1,16 +1,16 @@
 # vuetify-proje
 
-## Project setup
+## PAKET KURUMLUMU 
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### PROJEYİ DERLEYİP ÇALIŞTIRILMASI
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### PROJEYİ DERLEMEK
 ```
 npm run build
 ```
@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+![alt text](https://github.com/CodePencils/vuetify-proje/blob/master/src/assets/image.png?raw=true)
+
